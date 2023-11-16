@@ -10,7 +10,7 @@ for link in result.links:
 
 #не знаю нужна нет=
 #import re
-#тут открыть сохраненый файл
+#тут открыть сохраненный файл
 file = open("data.txt", "w")
 #эти нам не нужна 
 #file.write("One Up\nTwo Friends\nThree Musketeers")
