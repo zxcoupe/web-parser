@@ -6,6 +6,11 @@ for link in result.links:
 #Тут переделать вывод в файл=
   print(link)
 
+#Пример
+#with open('out.txt', 'w') as f:
+#    print('Filename:', filename, file=f)  # Python 3.x
+    # print >> f, 'Filename:', filename   # Python 2.x
+
 #Объединить с этим-
 
 #не знаю нужна нет=
